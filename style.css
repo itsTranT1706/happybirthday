@@ -568,6 +568,7 @@ body {
 
 .planet--orange {
   background-image: linear-gradient(-54deg, #FF0264 0%, #FE624E 41%, #FDBC39 82%, #FDDF31 100%);
+  box-shadow: 0 0 24px rgba(178, 50, 46, 0.7);
   height: 2em;
   width: 2em;
 }
